@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ab69cbccd799d00eadf530a999503c0e",
+  "assets/AssetManifest.json": "91fdca088d81aa66b2f92005d801ae53",
 "assets/assets/images/africa.jpg": "27fc2c6667bd5bd7bba8117fafe28d86",
 "assets/assets/images/animals.jpg": "2e218a94e7842a946d772082ac8c5590",
 "assets/assets/images/antarctica.jpg": "71e86242fca831839833d1caa23f107e",
@@ -17,6 +17,7 @@ const RESOURCES = {
 "assets/assets/images/background6.jpg": "33bd0bdff5cb1b184c6def34b5df3292",
 "assets/assets/images/backgrounds.jpg": "6e5ce78f6d89f56bcec74d892e5b4b19",
 "assets/assets/images/backgroundss.jpg": "c12fc55390beadbc77f1b6ac379a39a0",
+"assets/assets/images/Coder-unscreen.gif": "86047bcd644b67ccb70b64e539a5a54c",
 "assets/assets/images/CODER.gif": "dce87263cbd710a11bfe5ace129cbb91",
 "assets/assets/images/corps.gif": "3e64903da2a5fdc79f84d3957eff616a",
 "assets/assets/images/corpss.jpg": "631e6b5e657d738452312ee57bf652cc",
@@ -60,9 +61,9 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "0c5c3b4edf503d412296811be7094b06",
-"/": "0c5c3b4edf503d412296811be7094b06",
-"main.dart.js": "f6fcd3a2074d895c8c797f4b7764e002",
+"index.html": "73c629626825ad144fd24c6d7af66427",
+"/": "73c629626825ad144fd24c6d7af66427",
+"main.dart.js": "0abeb053bc977a193cba0552c748f5e4",
 "manifest.json": "997465669e8fcf23092b05984e1a82be",
 "version.json": "9094aacdae789dccd67fa32109ff1a18"
 };

@@ -58007,11 +58007,11 @@ this.f=o
 m=p.a
 if(m<800){s=A.aD(255,0,205,202)
 o=A.aD(B.d.aF(255*o),255,255,255)
-r=A.io(A.bJ("Author",A.bK(q,q,new A.K(4278680535),q,q,q,q,q,"Raleway",q,q,26,q,q,B.dc,q,q,!0,q,3,q,q,q,q,q,q),q,q),q,q)
+r=A.io(A.bJ("Coder Corps",A.bK(q,q,new A.K(4278680535),q,q,q,q,q,"Raleway",q,q,26,q,q,B.dc,q,q,!0,q,3,q,q,q,q,q,q),q,q),q,q)
 o=new A.qv(r,0,o,new A.cx(s,q,q,q),new A.xl(q,q,1/0,56),q)}else o=new A.DM(new A.vV(o,q),new A.V(m,70),q)
 s=t.s
 r=t.D
-return new A.uU(!0,o,A.ad5(A.dy(A.a([A.oK(B.br,A.a([A.ct(q,A.bH(A.a8L("assets/images/back.gif",B.cY),n*0.63,m),q,q,q,q,q,q),A.dy(A.a([new A.rM(p,q),new A.Bs(p,q),new A.Bt(p,A.a(["assets/images/tests1.jpg","assets/images/tests2.jpg","assets/images/tests3.jpg"],s),A.a(["Sci-fi","Photography","Romance"],s),q),new A.Cw(p,q),new A.tw(q),A.bH(q,n/10,q),new A.zh(q)],r),B.z,B.A,B.B)],r),B.bV)],r),B.z,B.A,B.B),this.d,B.bs),new A.CG(q),q)}}
+return new A.uU(!0,o,A.ad5(A.dy(A.a([A.oK(B.br,A.a([A.ct(q,A.bH(A.a8L("assets/images/back.gif",B.cY),n*0.63,m),q,q,q,q,q,q),A.dy(A.a([new A.rM(p,q),new A.Bs(p,q),new A.Bt(p,A.a(["assets/images/tests1.jpg","assets/images/tests2.jpg","assets/images/tests3.jpg"],s),A.a(["Poster Corps","Hack Eater Hackathon","Hacktoberfest"],s),q),new A.Cw(p,q),new A.tw(q),A.bH(q,n/10,q),new A.zh(q)],r),B.z,B.A,B.B)],r),B.bV)],r),B.z,B.A,B.B),this.d,B.bs),new A.CG(q),q)}}
 A.a39.prototype={
 $0(){var s=this.a,r=B.b.gbH(s.d.d).as
 r.toString
@@ -58179,7 +58179,7 @@ A.Lg.prototype={
 I(a){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=4278680535,d=a.P(t.w).f,c=A.aD(B.d.aF(255*g.a.c),255,255,255)
 d=d.a.a
 s=A.bH(f,f,d/4)
-r=A.bJ("Author",A.bK(f,f,new A.K(e),f,f,f,f,f,"Raleway",f,f,26,f,f,B.dc,f,f,!0,f,3,f,f,f,f,f,f),f,f)
+r=A.bJ("Coder Corps",A.bK(f,f,new A.K(e),f,f,f,f,f,"Raleway",f,f,26,f,f,B.dc,f,f,!0,f,3,f,f,f,f,f,f),f,f)
 d/=15
 q=A.bH(f,f,d)
 p=g.d
@@ -58202,7 +58202,7 @@ d=A.bH(f,f,d)
 o=A.bJ("Videos",A.bK(f,f,p[3]?new A.K(e):new A.K(e),f,f,f,f,f,f,f,f,16,f,f,B.ad,f,f,!0,f,f,f,f,f,f,f,f),f,f)
 i=A.bH(f,5,f)
 p=p[3]
-return A.ct(f,new A.c1(new A.au(20,20,20,20),A.f8(A.a([A.a8z(A.f8(A.a([s,r,q,m,n,j,k,h,d,A.fH(!1,!0,A.dy(A.a([o,i,A.a1s(A.ct(f,f,A.aD(255,54,41,248),f,2,f,f,20),!0,!0,!0,p)],l),B.z,B.A,B.be),f,!0,f,f,f,f,f,f,f,new A.a5C(g),f,new A.a5D(),f,f,f,f)],l),B.z,B.A,B.B))],l),B.z,B.A,B.B),f),c,f,f,f,f,f)}}
+return A.ct(f,new A.c1(new A.au(10,10,10,10),A.f8(A.a([A.a8z(A.f8(A.a([s,r,q,m,n,j,k,h,d,A.fH(!1,!0,A.dy(A.a([o,i,A.a1s(A.ct(f,f,A.aD(255,54,41,248),f,2,f,f,20),!0,!0,!0,p)],l),B.z,B.A,B.be),f,!0,f,f,f,f,f,f,f,new A.a5C(g),f,new A.a5D(),f,f,f,f)],l),B.z,B.A,B.B))],l),B.z,B.A,B.B),f),c,f,f,f,f,f)}}
 A.a5w.prototype={
 $1(a){var s=this.a
 s.ab(new A.a5v(s,a))},
