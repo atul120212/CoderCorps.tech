@@ -59034,7 +59034,7 @@ s=new A.fK(q,q&&!0,s,null)
 return A.amL(!1,s,r?1:0)}}
 A.Dl.prototype={
 I(a){var s=null
-return new A.u2(new A.tj(s),"Flutter Web",A.af3(s,s,A.afl()),!1,s)}}
+return new A.u2(new A.tj(s),"Coder Corps",A.af3(s,s,A.afl()),!1,s)}}
 A.tj.prototype={
 ad(){return new A.x9(A.Zu(),B.j)}}
 A.x9.prototype={
@@ -59120,7 +59120,7 @@ I(a){var s=null,r="Featured",q="Boost Your Skills",p=this.c,o=p.a,n=o/15,m=t.D
 o=o<800?A.cp(A.a([A.bh(r,A.b2(s,s,A.a6(255,8,222,204),s,s,s,s,s,"Raleway",s,s,36,s,s,B.a4,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.bq(s,5,s),A.bh(q,s,B.c0,s)],m),B.x,B.t,B.p):A.el(A.a([A.bh(r,A.b2(s,s,A.a6(255,8,222,204),s,s,s,s,s,"Raleway",s,s,36,s,s,B.a4,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.So(A.bh(q,s,B.c0,s))],m),B.x,B.t,B.p)
 return new A.bb(new A.ae(n,p.b*0.06,n,0),o,s)}}
 A.BZ.prototype={
-I(a){var s,r,q,p,o,n=null,m="assets/images/chainn.gif",l="Register Now",k="Montserrat",j=this.c,i=j.a,h=t.D
+I(a){var s,r,q,p,o,n=null,m="assets/images/myblock.jpg",l="Register Now",k="Montserrat",j=this.c,i=j.a,h=t.D
 j=j.b
 s=i/15
 r=j/70

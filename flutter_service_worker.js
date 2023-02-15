@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "55f7a54dbda5fc037ceab021161cddc7",
+  "assets/AssetManifest.json": "2be6bc151af4af99e1946174232e3535",
 "assets/assets/images/africa.jpg": "27fc2c6667bd5bd7bba8117fafe28d86",
 "assets/assets/images/animals.jpg": "2e218a94e7842a946d772082ac8c5590",
 "assets/assets/images/antarctica.jpg": "71e86242fca831839833d1caa23f107e",
@@ -33,6 +33,7 @@ const RESOURCES = {
 "assets/assets/images/logo.gif": "86047bcd644b67ccb70b64e539a5a54c",
 "assets/assets/images/mutant.jpg": "bed8580fdad32365a44585d748d42f35",
 "assets/assets/images/mutant_sol.jpg": "7271a611c4cc658b6044fd460c6bbfc8",
+"assets/assets/images/myblock.jpg": "c5638206558ccb64855f291668c10a75",
 "assets/assets/images/north_america.jpg": "867d729d34a03bf38136bd45954ec218",
 "assets/assets/images/photography.jpeg": "b0d14d6d4a94d33404a7df1344e7533b",
 "assets/assets/images/PRIMARY.jpg": "cf5dcb99f685f298058ab63ba4111f5e",
@@ -69,9 +70,9 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "2963c57f6bb5edae77f4dacca030ddfc",
-"/": "2963c57f6bb5edae77f4dacca030ddfc",
-"main.dart.js": "cbf5656e2e0d1ebbc6cd5820e320c84d",
+"index.html": "0e43bc8aaaa3eefc4130a1f4966700cc",
+"/": "0e43bc8aaaa3eefc4130a1f4966700cc",
+"main.dart.js": "32856d0325b6d73876e0ff41d522c280",
 "manifest.json": "997465669e8fcf23092b05984e1a82be",
 "version.json": "9094aacdae789dccd67fa32109ff1a18"
 };
